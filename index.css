@@ -119,13 +119,19 @@ section{
   #fuckmylife {
       display: block;
       margin: 5%;
-      text-align:center;
+
       background-color: #DDB9A3;
       font-size: .9rem;
       padding-top: 2%;
       padding-bottom: 2%;
       width: 90%;
 
+  }
+
+  #fuckmylife2 {
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .ihatemyself {
@@ -158,5 +164,6 @@ section{
 
 #navbot{
     padding-bottom: 3%;
-    background-color: #DDB9A3;
+    background-color:#F9E7DC;
 }
+
